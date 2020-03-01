@@ -44,5 +44,7 @@ Truy cap  www.gitignore.io nhap ten cong nghe du an va copy tao file .gitignore 
    - UI HTML, List product categories, search product, Show product by categories, Product Detail, Cart, Checkout, Payment comfirmation,Profie/list orders
    - Resgiter, Login, Logout, Change password, Forgot password
 7. Design Database.
-
+8. Cài đặt package EntityFrameword .net core.
+ Lệnh: dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+ 
 
